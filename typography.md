@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 发展历程
+title: 企业文化
 permalink: /typography/
 main_nav: true
 ---
