@@ -197,8 +197,8 @@ protocols:
     fb_image_height: 224
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    # twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    # os_repo: "https://github.com/bencentra/centrarium.com"
+    # os_rcs_type: "git"
+    # os_src: "git@github.com:bencentra/centrarium.com.git"
