@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-04-18T14:25:52-05:00
-author: Ben Centra
-categories: Jekyll
-tags:	jekyll welcome
+title:  "重整旗鼓 蓄力待发"
+date:   2023-05-23
+author: Draper-crypto
+categories: 公告
+tags:	公告类
 cover:  "/assets/instacode.png"
 ---
 
