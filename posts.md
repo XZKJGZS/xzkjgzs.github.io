@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "posts"
+title: "Posts"
 permalink: /posts/
 main_nav: true
 ---

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 企业文化
+title: Typography
 permalink: /typography/
 main_nav: true
 ---
 
-<p>先知科技工作室创立于2020年，距今已有三年的发展历史，一路走来经历风风雨雨，但我们从未倒下。</p>
+<p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
 
 <hr>
 
