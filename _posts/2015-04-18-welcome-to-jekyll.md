@@ -10,17 +10,14 @@ cover:  "/assets/instacode.png"
 
 > 辛辛苦苦几十年一病回到解放前，救护车一响所有的“项目”都白讲。
 
-## Adding New Posts
+直线超车别人遥遥领先，怎会给你轻易超过去？弯道超车同样，十超九翻，所以我们要换道超车。
+既然我们比赛会被和谐，那我们为什么不和他们比商业？谁的商业做的更好，谁更会赚钱才来的更加实际，今年的比赛被和谐，理由居然无人能给出应答，比起“小题大作”更令人痛斥的就属“莫须有”！
+我们想过放弃，但我们不能放弃，做商业哪有不失败的。失败不可怕，可怕的是没有从失败的地方总结反思，指责抱怨没有用，当抱怨出现问题就来了。马云创办阿里巴巴，找了无数的风险投资公司，均被拒绝，从此马云说：“我再也不想去敲别人的门，有一天，我们要让他们来敲我们的门。”
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+> 很多人是晚上想想千条路，早上起来走原路
 
-### Tags and Categories
-
-If you list one or more categories or tags in the front matter of your post, they will be included with the post on the page as links. Clicking the link will bring you to an auto-generated archive page for the category or tag, created using the [jekyll-archive][jekyll-archive] gem.
-
-### Cover Images
-
-To add a cover image to your post, set the "cover" property in the front matter with the relative URL of the image (i.e. <code>cover: "/assets/cover_image.jpg"</code>).
+自市赛成绩公布，我没有比赛、没有考试的束缚，偶尔忙里偷闲，想法万千。马云说：“很多年轻人是晚上想想千条路，早上起来走原路”，这句话点醒了我，与其与不公较劲，不如记录更多自己的想法去实践。
+这段时间里，相比诸位也都体验过ChatGPT的厉害之处了吧，很多人都在批评、职责、辱骂GPT取代了很多人类的工作，冲击了各个行业，取代大量文字工作者，大厂也争相裁员。当别人骂
 
 ### Code Snippets
 
