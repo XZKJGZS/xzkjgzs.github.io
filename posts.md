@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "文章"
+title: "Posts"
 permalink: /posts/
 main_nav: true
 ---
