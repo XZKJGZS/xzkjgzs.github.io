@@ -31,9 +31,9 @@ highlightjs_theme: "monokai-sublime"
 # Pagination Settings 分页设置
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
-  paginate: 5
+  paginate: 1
   paginate_path: "/page:num/"
-  
+
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
   enabled:
