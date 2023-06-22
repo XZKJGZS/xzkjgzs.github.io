@@ -102,4 +102,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/Barry-Flynn/xzkjgzs.github.io #仓库地址
+  branch: master # 默认使用 master 分支(Github现在改名为main分支)
+  message: Update Hexo Static Content # 你可以自定义此次部署更新的说明说明
